@@ -32,7 +32,6 @@
 .ee {
     background-repeat: no-repeat;
     background-attachment: fixed;
-
 }
 
 .ff h4 {
@@ -154,9 +153,33 @@
   font-weight: ;
 }
 .ccc h5, p {
-  line-height: 20px;
+  line-height: 23px;
 }
 
+
+.bbb {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.ddd h5 {
+  letter-spacing: 4px;
+}
+.ddd h5:hover {
+  color: red;
+}
+
+
+.card-cc {
+    overflow: hidden;
+}
+.card-cc img {
+    transition: transform 0.6s ease;
+}
+.card-cc img:hover {
+    transform: scale(1.10);
+}
 
 
 
